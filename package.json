@@ -1,0 +1,21 @@
+{
+  "name": "vue-cli-plugin-squirrelzoo",
+  "version": "1.0.0",
+  "description": "Custom H5 templates for Vue CLI 3 ",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pumelotea/vue-cli-plugin-squirrelzoo.git"
+  },
+  "keywords": [
+    "vue",
+    "cli",
+    "custom",
+    "template",
+    "plugin"
+  ],
+  "homepage": "https://github.com/pumelotea/vue-cli-plugin-squirrelzoo/blob/master/README.md",
+  "author": "pumelotea",
+  "license": "MIT"
+}
