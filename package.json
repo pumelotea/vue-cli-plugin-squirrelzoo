@@ -13,7 +13,8 @@
     "cli",
     "custom",
     "template",
-    "plugin"
+    "plugin",
+    "h5"
   ],
   "homepage": "https://github.com/pumelotea/vue-cli-plugin-squirrelzoo/blob/master/README.md",
   "author": "pumelotea",
