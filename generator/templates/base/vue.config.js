@@ -4,7 +4,7 @@ const poststylus = require('poststylus')
 const pxtorem = require('postcss-pxtorem')
 const resolve = file => path.resolve(__dirname, file)
 const SquirrelZooBuildPlugin = require('squirrelzoo-build-plugin')
-SquirrelZooBuildPlugin.apply()
+SquirrelZooBuildPlugin.apply('vue-cli-plugin-squirrelzoo')
 let plugins=[]
 
 process.env.VUE_APP_TITLE = require("./package.json").name

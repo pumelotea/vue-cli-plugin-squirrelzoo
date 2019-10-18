@@ -61,11 +61,11 @@ function addDependencies(api) {
       "nib": "^1.1.2",
       "postcss-pxtorem": "^4.0.1",
       "poststylus": "^1.0.0",
-      "squirrelzoo-build-plugin": "^1.0.0",
+      "squirrelzoo-build-plugin": "^1.0.1",
       "stylus": "^0.54.5",
       "stylus-loader": "^3.0.2",
       "vue-cli-plugin-mand": "^0.4.1",
-      "vue-cli-plugin-squirrelzoo": "latest",
+      "vue-cli-plugin-squirrelzoo": "^1.0.5",
       "vue-template-compiler": "^2.6.10"
     }
   })
