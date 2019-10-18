@@ -1,5 +1,6 @@
 # vue-cli-plugin-squirrelzoo
-squirrelzoo的H5移动端项目创建插件，适用于vue-cli3脚手架。
+Vue H5移动端项目创建插件，适用于vue-cli3脚手架。
+内置mand ui框架
 
 ### 引导
 1. 该预设模板会只适用于创建新项目，请勿在已有项目中添加该插件，因为该插件会删除并替换一些文件
