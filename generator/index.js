@@ -51,7 +51,7 @@ function addDependencies(api) {
     devDependencies: {
       "@vue/cli-plugin-babel": "^3.5.0",
       "@vue/cli-plugin-eslint": "^3.5.0",
-      "@vue/cli-service": "^3.12.0",
+      "@vue/cli-service": "^4.0.0",
       "babel-eslint": "^10.0.1",
       "babel-plugin-import": "^1.8.0",
       "babel-plugin-transform-remove-console": "^6.9.4",
