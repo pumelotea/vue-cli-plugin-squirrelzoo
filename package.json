@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-squirrelzoo",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Custom H5 templates for Vue CLI 3 ",
   "main": "index.js",
   "scripts": {},
