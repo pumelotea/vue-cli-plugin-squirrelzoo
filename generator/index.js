@@ -65,7 +65,6 @@ function addDependencies(api) {
       "stylus": "^0.54.5",
       "stylus-loader": "^3.0.2",
       "vue-cli-plugin-mand": "^0.4.1",
-      "vue-cli-plugin-squirrelzoo": "^1.0.5",
       "vue-template-compiler": "^2.6.10"
     }
   })
