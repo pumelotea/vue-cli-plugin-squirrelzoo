@@ -33,7 +33,6 @@ function addDependencies(api) {
       "build-test": "vue-cli-service build --mode=test --dest=dist-test",
     },
     dependencies: {
-      "@vue/eslint-config-standard": "^4.0.0",
       "axios": "^0.18.0",
       "core-js": "^2.6.5",
       "cropperjs": "^1.5.1",
@@ -49,9 +48,11 @@ function addDependencies(api) {
       "vuex": "^3.0.1"
     },
     devDependencies: {
-      "@vue/cli-plugin-babel": "^3.5.0",
-      "@vue/cli-plugin-eslint": "^3.5.0",
-      "@vue/cli-service": "^4.0.0",
+      "@babel/polyfill": "^7.6.0",
+      "@vue/eslint-config-standard": "^4.0.0",
+      "@vue/cli-plugin-babel": "^4.0.4",
+      "@vue/cli-plugin-eslint": "^4.0.4",
+      "@vue/cli-service": "^4.0.4",
       "babel-eslint": "^10.0.1",
       "babel-plugin-import": "^1.8.0",
       "babel-plugin-transform-remove-console": "^6.9.4",
