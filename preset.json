@@ -2,6 +2,7 @@
   "useConfigFiles": true,
   "plugins": {
     "vue-cli-plugin-squirrelzoo": {
+      "version": "^1.0.7",
       "replaceTemplates": true
     }
   }
